@@ -48,6 +48,8 @@ export default {
 
 .header-nav li {
   display: inline;
+  border-bottom: none;
+  margin-bottom: 0;
 }
 
 .header-nav a {
